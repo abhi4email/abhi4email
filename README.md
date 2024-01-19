@@ -25,18 +25,6 @@ Here are some ideas to get you started:
 
 <div>
   <a href="https://github.com/abhi4email">
-    <img alt="Bitcoin" src="https://img.shields.io/badge/Bitcoin-ab790d?style=plastic&logo=bitcoin&logoColor=white" />
-  </a>
-  <a href="https://github.com/abhi4email">
-    <img alt="Bitcoin" src="https://img.shields.io/badge/Ethereum-442288?style=plastic&logo=ethereum&logoColor=white" />
-  </a>
-  <a href="https://github.com/abhi4email">
-    <img alt="Solidity" src="https://img.shields.io/badge/Solidity-blue?style=plastic&logo=solidity&logoColor=white" />
-  </a>
-  <a href="https://github.com/abhi4email">
-    <img alt="Solidity" src="https://img.shields.io/badge/Rust-443330?style=plastic&logo=rust&logoColor=white" />
-  </a>
-  <a href="https://github.com/abhi4email">
     <img alt="Solidity" src="https://img.shields.io/badge/Web3.js-11aa33?style=plastic&logo=web3.js&logoColor=white" />
   </a>
 </div>
