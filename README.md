@@ -113,14 +113,3 @@ Here are some ideas to get you started:
     <img alt="Github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat&logo=github-actions&logoColor=white" />
   </a>
 </div>
-
-<h2>Status</h2>
-
-<div align="center">
-  <a href="https://github.com/abhi4email">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abhi4email&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi4email&layout=compact&langs_count=7&theme=dark"/>
-<!--   <img height="295em"  src="https://activity-graph.herokuapp.com/graph?username=abhi4email&theme=xcode"/> -->
-   <img alt="abhi4email's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=abhi4email&bg_color=1c292E&color=a7e729&line=e729c7&point=FFFFFF&hide_border=true" />
- 
-  </a></div>
